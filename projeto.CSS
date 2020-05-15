@@ -1,0 +1,10 @@
+body {
+    font-family: system-ui;
+    background: #f06d06;
+    color: yellow;
+    text-align: left;
+  }
+  h1 {
+      color: navy;
+      font-size: 12px;
+    }
